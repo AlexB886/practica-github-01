@@ -3,6 +3,8 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 23 | David Abraham Alba Rivero | Notting Hill
+PC 2 6 | Iván Gómez Navarro | Arthur the King
+PC 3 5  |Santiago Martínez Córdoba|La La Land  
 14        Javier Sansano  Cars
 22 | Héctor Piquer Belda | Titanic
 12  | Gabriel Vidal Badia| Matrix
