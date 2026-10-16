@@ -3,3 +3,6 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 PC 1 6 | Salva Llàcer Ivars | Whiplash
+14        Javier Sansano  Cars
+22 | Héctor Piquer Belda | Titanic
+12  | Gabriel Vidal Badia| Matrix
