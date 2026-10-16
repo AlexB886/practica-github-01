@@ -3,6 +3,7 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 PC 1 5 | Borja Albert Bataller | Uncharted 
+PC 1 6 | Salva Llàcer Ivars | Whiplash
 PC 2 5 | Al Hayy Castellá García | 2001: A Space Odyssey
 PC 2 6 | Iván Gómez Navarro | Arthur the King
 PC 3 5  |Santiago Martínez Córdoba|La La Land  
@@ -10,3 +11,4 @@ PC 3 5  |Santiago Martínez Córdoba|La La Land
 22 | Héctor Piquer Belda | Titanic
 12  | Gabriel Vidal Badia| Matrix
 34 | José Miguel Miralles Gandia| Se7en
+13 | Sergio Chorques Perales | El señor de los anillos
