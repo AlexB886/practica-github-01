@@ -9,3 +9,4 @@ PC 3 5  |Santiago Martínez Córdoba|La La Land
 22 | Héctor Piquer Belda | Titanic
 12  | Gabriel Vidal Badia| Matrix
 34 | José Miguel Miralles Gandia| Se7en
+13 | Sergio Chorques Perales | El señor de los anillos
