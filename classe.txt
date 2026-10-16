@@ -3,6 +3,7 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 3 1     Carles Tudela Garcia    Scary Movie 6 
+PC 2 6 | Iván Gómez Navarro | Arthur the King
 PC 3 5  |Santiago Martínez Córdoba|La La Land  
 14        Javier Sansano  Cars
 22 | Héctor Piquer Belda | Titanic
