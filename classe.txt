@@ -3,6 +3,7 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 PC 1 5 | Borja Albert Bataller | Uncharted 
+PC 2 5 | Al Hayy Castellá García | 2001: A Space Odyssey
 PC 2 6 | Iván Gómez Navarro | Arthur the King
 PC 3 5  |Santiago Martínez Córdoba|La La Land  
 14        Javier Sansano  Cars
