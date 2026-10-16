@@ -2,3 +2,6 @@ LLISTAT D'ALUMNES
 
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
+Núm. PC: 21
+Nom i cognoms: Victor Alexandru Baicu
+Pel·lícula: Spider-Man: Brand New Day
