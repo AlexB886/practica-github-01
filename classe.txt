@@ -5,5 +5,7 @@ Núm. PC | Nom i cognoms | Pel·lícula
 Núm. PC: 21
 Nom i cognoms: Victor Alexandru Baicu
 Pel·lícula: Spider-Man: Brand New Day
+14        Javier Sansano  Cars
 22 | Héctor Piquer Belda | Titanic
 12  | Gabriel Vidal Badia| Matrix
+34 | José Miguel Miralles Gandia| Se7en
